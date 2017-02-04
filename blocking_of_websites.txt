@@ -1,0 +1,18 @@
+
+On blocking of GitHub and other sites
+
+Published on Dec 31, 2014
+
+Over the last few days, there have been reports that internet users in India are not able to access services like GitHub, PasteBin and Imgur. It is now increasingly becoming clear that these sites have been blocked by the ISPs (Internet Service Providers), with no explanation given. One ISP claims that these sites have been blocked as per the instructions of Competent Authority. No mention of who the Competent Authority is nor the rationale behind the blockade have been provided. The situation with other ISPs is even worse, with a simple message that states “Service Unavailable”. Netizens on the social media from across the country have been reporting on this issue, which confirms the fact that this is not a single ISP acting in isolation but a concerted effort at blocking these services. This could not have happened with out the notice of the Government. It is shocking to note that a popular code-hosting website like GitHub, which is very popular among researchers, scientists, developers and students alike, and PasteBin are blocked. This brazen act of censorship goes against the fundamental rights of the citizens and the absolute lack of transparency in these matters is an attack on democracy and scientific progress. FSMI and FSMK wants that the Government of India to immediately revoke this unjust blocking of these services, issue guidelines and ensure transparency in the process.
+
+
+
+
+
+GitHub ಮತ್ತಿನಿತ್ತರ ತಡೆ ಹಿಡಿಯುವಿಕೆ
+
+ಪ್ರಕಟಣೆ Dec 31, 2014
+
+ಕೆಲವು ದಿನಗಳಿಂದ ಭಾರತದಲ್ಲಿ ಇಂಟರ್ನೆಟ್ ಬಳಕೆದಾರರು GitHub, PasteBin ಮತ್ತು Imgur ಜಾಲ ತಾಣಗಳು ಉಪಲಬ್ದವಿಲ್ಲ ಎಂದು ವರದಿಗಳಿದೆ.   ಯಾವುದೇ ಕಾರಣಗಳಿಲ್ಲದೆ Internet Service Providers(ISP) ಈ ಜಾಲ ತಾಣಗಳನ್ನು ತಡೆ ಹಿಡಿದಿರುವುದು ಬಹುತೇಕ ಖಚಿತವಾಗಿದೆ.  ಕೆಲ ISP ಗಳು ಮೇಲಧಿಕಾರಿಗಳ ಆದೇಶದ ಮೇರೆಗೆ ತಡೆ ಹಿಡಿದಿದ್ದಾರೆ ಎಂದು ಹೇಳಿ, ಆ ಮೇಲಧಿಕಾರಿಗಳು ಯಾರು ಎಂದು ತಿಳಿಸಿಲ್ಲ.  ಮತ್ತಿನ್ನಿತರ ISP ಗಳು " Service Unavailable" ಎಂಬ ಸಂದೇಶವನ್ನು ಹೊಂದಿದೆ.ದೇಶಾದ್ಯಂತ ಇಂಟರ್‌ನೆಟ್ ಬಳಕೆದಾರರು ವೆಬ್‌ಸೈಟ್ ಗಳ ತಡೆ ಹಿಡುವಿಕೆಯನ್ನು ವರದಿ ಮಾಡಿದ್ದಾರೆ. ಇದು ಕೇವಲ ಒಂದೆರಡು ISP ಗಳಲ್ಲದೆ ಅತಿ ಹೆಚ್ಚಿನವಾಗಿ ಕಂಡು ಬಂದಿದೆ. ಸರ್ಕಾರದ ಗಮನಕ್ಕೆ ತರದೆ ಈ ಹೆಜ್ಜೆಯನ್ನು ಸ್ವಿಕರಿಸಿರುವುದಿಲ್ಲ. ಸಂಶೋಧಕರು, ವಿಜ್ಞಾನಿಗಳು, ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತಿನಿತ್ತರು ಪ್ರಮುಖವಾಗಿ ಬಳಸುವ GitHub ತಡೆ ಹಿಡಿದಿರುವುದು ಅಚ್ಚರಿ ಮೂಡಿಸಿದೆ. FSMK ಮತ್ತು FSMI ಭಾರತ ಸರ್ಕಾರವನ್ನು ತಕ್ಷಣವಾಗಿ ಇದರ ಪಾರದರ್ಶಕತೆಯನ್ನು ಖಚಿತ ಪಡಿಸಬೇಕಾಗಿ ವಿನಂತಿ.
+
+
